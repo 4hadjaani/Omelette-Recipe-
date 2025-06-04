@@ -1,0 +1,34 @@
+attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+    
+    body{ background-color :#f3e5d8 ;
+              margin:0; }
+       
+       img{ border-spacing:0;  }
+       
+       .wrapper { table-layout:fixed ;
+                            padding-bottom:60px;}
+           
+         .main {  
+                       width :100%;
+                       max-width :1200px;
+                      
+                       margin : 20px 10px 20px 10px ;
+                      background-color:#ffffff;
+                       color:#272727;  
+                       
+                        }           
+  .preparation { background-color:#fff2fc ;
+                           }     
+                           
+               h3{ color:#7e462f; }
+           .time{ color :#612942; }
+           
+           
+           ul.prep li::marker{   color: #612942;
+                      }
+           
+          ol.inst li::marker{   color: #7e462f;
+                      }
+               ul.ing li::marker{   color: #7e462f;
+                      } 
